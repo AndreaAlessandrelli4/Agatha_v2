@@ -14,4 +14,5 @@ setuptools
 sqlalchemy
 nltk
 sounddevice
+libportaudio2
 
