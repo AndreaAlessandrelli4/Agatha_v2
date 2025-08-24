@@ -14,3 +14,4 @@ elevenlabs
 setuptools
 sqlalchemy
 nltk
+aiohttp
