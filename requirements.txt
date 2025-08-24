@@ -10,3 +10,5 @@ streamlit-webrtc
 streamlit-autorefresh
 openai
 elevenlabs
+setuptools
+
