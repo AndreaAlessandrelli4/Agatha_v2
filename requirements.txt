@@ -6,15 +6,9 @@ numpy
 webrtcvad
 av
 soundfile
+sounddevice
 streamlit-webrtc
 streamlit-autorefresh
 openai
 elevenlabs
-setuptools
-sqlalchemy
-nltk
-sounddevice
-libportaudio2
-python-dotenv
-streamlit-aggrid
 setuptools
