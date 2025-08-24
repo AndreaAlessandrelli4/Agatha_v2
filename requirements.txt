@@ -12,3 +12,4 @@ streamlit-autorefresh
 openai
 elevenlabs
 setuptools
+sqlalchemy
