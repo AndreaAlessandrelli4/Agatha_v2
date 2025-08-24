@@ -15,4 +15,6 @@ sqlalchemy
 nltk
 sounddevice
 libportaudio2
-
+python-dotenv
+streamlit-aggrid
+setuptools
