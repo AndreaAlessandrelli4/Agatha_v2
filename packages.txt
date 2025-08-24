@@ -1,4 +1,2 @@
 libportaudio2
 ffmpeg
-sounddevice
-av
