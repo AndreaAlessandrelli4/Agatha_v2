@@ -13,4 +13,5 @@ elevenlabs
 setuptools
 sqlalchemy
 nltk
+sounddevice
 
