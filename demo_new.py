@@ -189,6 +189,7 @@ if st.session_state.demo_started and not st.session_state.end:
 if st.session_state.demo_started:
     st.markdown(f"### Welcome {st.session_state.name_input_option} {st.session_state.surname_input_option}!")
     st.markdown("### Dashboard")
+    st.write(os.getenv("OPENAI_API_KEY")[0:2])
 
     if not st.session_state.start_demo_triggered:
         st.session_state.start_demo_triggered = True
@@ -422,4 +423,5 @@ if st.session_state.demo_started:
                     st.rerun()
 
 else:
+
     st.info("Please enter your name and surname above and click 'Start Demo' to begin.")
