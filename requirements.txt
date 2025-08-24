@@ -13,3 +13,4 @@ openai
 elevenlabs
 setuptools
 sqlalchemy
+nltk
