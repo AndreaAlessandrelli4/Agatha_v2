@@ -1,6 +1,11 @@
 pip
+streamlit
 st_aggrid
 python-dotenv
+av
+streamlit-webrtc
+numpy
+pandas
 
 
 
